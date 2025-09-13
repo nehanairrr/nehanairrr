@@ -24,8 +24,8 @@
 ---
 
 ### 🌐 Connect with Me
-- 📩 Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehasanjeevkrishna@gmail.com)
-- 💼 LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-sanjeev-krishna-323b64347)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehasanjeevkrishna@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-sanjeev-krishna-323b64347)
 
 ---
 
